@@ -27,7 +27,6 @@ The dataset was cleaned and prepared using Python in a Jupyter Notebook. Steps i
 
 📄 View the notebook: [`data_cleaning_notebook.ipynb`](data_cleaning_notebook.ipynb)
 
-![Notebook Screenshot](screenshots/cleaning_process.png)
 
 ---
 
