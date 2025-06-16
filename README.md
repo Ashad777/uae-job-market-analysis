@@ -58,7 +58,7 @@ If you're a recruiter, hiring manager, or fellow data professional, feel free to
 
 - 📊 **Data Analysis**  
 - 📈 **Business Intelligence**  
-- 🧠 **ML / AI Internships**  
+- 🧠 **ML / AI Roles**  
 
 Especially within the **UAE job market**.
 
